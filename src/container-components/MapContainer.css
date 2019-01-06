@@ -1,0 +1,21 @@
+.container {
+	width: 100vw;
+	height: 100vh;
+}
+
+.map-container {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.settings-button {
+	position: absolute;
+	z-index: 1000;
+	right: 0;
+	top: 0;
+}
+
+.markers-slider {
+	background: transparent;
+}
